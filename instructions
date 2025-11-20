@@ -1,0 +1,5 @@
+https://docs.langflow.org/get-started-installation
+
+pip install uv
+uv pip install langflow
+uv run langflow run
